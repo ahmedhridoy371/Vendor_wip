@@ -1710,7 +1710,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/lavender/proprietary/vendor/lib64/vendor.qti.imsrtpservice@2.1-service-Impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.imsrtpservice@2.1-service-Impl.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib64/vendor.qti.imsrtpservice@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.imsrtpservice@2.1.so \
     vendor/xiaomi/lavender/proprietary/vendor/lib64/vendor.qti.latency@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.latency@2.0.so \
-    vendor/xiaomi/lavender/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db \
+    vendor/xiaomi/lavender/proprietary/vendor/lib64/soundfx/libdirac.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libdirac.so \
+	vendor/xiaomi/lavender/proprietary/vendor/radio/qcril_database/qcril.db:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/qcril.db \
     vendor/xiaomi/lavender/proprietary/vendor/radio/qcril_database/upgrade/0_initial.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/0_initial.sql \
     vendor/xiaomi/lavender/proprietary/vendor/radio/qcril_database/upgrade/1_version_intro.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/1_version_intro.sql \
     vendor/xiaomi/lavender/proprietary/vendor/radio/qcril_database/upgrade/2_version_add_wps_config.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/2_version_add_wps_config.sql \
